@@ -28,5 +28,11 @@
   }
     
   .btn-one{
-      background-color: #e42a2a;
+      background-color: #695a5a;
+  }
+
+  .btn-two {
+    background-color: white;
+    color: #695a5a;
+    font-size: 2rem;
   }

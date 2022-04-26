@@ -26,4 +26,4 @@ export default function ControlButtons(props) {
       <div>{props.active ? ActiveButtons : StartButton}</div>
     </div>
   );
-}cd 
+}

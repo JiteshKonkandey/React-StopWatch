@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import "./Stopwatch.css";
 import Timer from "../timer/Tmer";
-import ControlButtons from "../controlButtons/ControlButtons";  
+import ControlButtons from "../controlButtons/ControlButtons"; 
+
 function StopWatch() {
   const [isActive, setIsActive] = useState(false);
   const [isPaused, setIsPaused] = useState(true);
